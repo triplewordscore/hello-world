@@ -1,3 +1,3 @@
 # hello-world
 hello-world
-starting point -  getting feet wet
+- A new starting point -  getting my feet wet
